@@ -3,6 +3,9 @@
 A collection of 3D-printable Magsafe accessories. The repository contains
 various STEP and 3MF models that you can modify or print for your own use.
 
+![3](https://github.com/user-attachments/assets/0fba1132-f1d6-4a02-a0a1-8e2023b20dc9)
+
+
 ## Contents
 
 - `Magsafe.STEP` and `Magsafe top.STEP` – STEP versions of the charger mount
@@ -28,3 +31,8 @@ will depend on your specific printing setup.
 This project is dedicated to the public domain under the
 [CC0 1.0 Universal](LICENSE) license. You are free to use, modify, and
 share these files without restriction.
+![6](https://github.com/user-attachments/assets/a8a500f7-c7a3-4bb8-8dad-5ca31cc174cc)
+![4](https://github.com/user-attachments/assets/24d3a003-34df-4175-81ae-0fdb1fbb7c46)
+![3](https://github.com/user-attachments/assets/2f3707bc-103c-4da7-a7fb-369475f1f44f)
+![2](https://github.com/user-attachments/assets/685147ce-65ff-44cb-b6cc-9f968f90e3df)
+![1](https://github.com/user-attachments/assets/379db3eb-18a1-420f-bcef-6dcfec54d531)
