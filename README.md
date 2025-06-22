@@ -1,7 +1,6 @@
 # qi2mag
-
-A collection of 3D-printable Magsafe accessories. The repository contains
-various STEP and 3MF models that you can modify or print for your own use.
+A enclosure for various cheap qi cahrging pads to support magsafe magnets.
+I started from this design and adapted it to my needs. (https://makerworld.com/en/models/606034-stick-anywhere-magsafe-ring#profileId-528841)
 
 ![3](https://github.com/user-attachments/assets/0fba1132-f1d6-4a02-a0a1-8e2023b20dc9)
 
